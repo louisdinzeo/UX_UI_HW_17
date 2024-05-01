@@ -29,12 +29,11 @@ margin-left: auto;
 }
 
 footer, ul {
-background-color: #373738;
+background-color: #747477;
 display: inline-block;
 vertical-align: top;
 }
 
 body {
-background-color: blue;   
+background-color: rgb(255, 128, 0);   
 }
-
